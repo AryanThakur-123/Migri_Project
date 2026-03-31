@@ -1,6 +1,5 @@
 **Migri** is a professional Document Management System (DMS) built to demonstrate a scalable **Subscription & Feature Entitlement System**. It ensures that organizations (tenants) can only access features and resources according to their specific subscription tier.
 
-🚀 **Submission Date:** March 31, 2026
 
 ---
 
@@ -40,7 +39,7 @@ The system uses a highly normalized schema to allow for dynamic plan updates wit
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/yourusername/migri-saas.git](https://github.com/yourusername/migri-saas.git)
+   git clone (https://github.com/AryanThakur-123/Migri_Project.git)
 Database Configuration:
 Create a PostgreSQL database named dms_saas_db and run the seed script:
 
